@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Inconsolata|Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #FAFAF5;
+}
+
+#body-text{
+	padding-top: 200px;	
+}
+
+#wedding-text{
+	border-style: solid;
+	border-color: #0C2947;
+	text-align: center;
+	background-color: lightgrey;
+}
+
+.headline-text{
+	font-family: 'Great Vibes', cursive;
+}
+
+.photo{
+	padding-top: 200px;
+}
+
+.card .card-image img {
+	padding-top: 5px;
+}
+
+.row .col.s3{
+	height: 300px;
+	padding: 10px;
+}
+
+.Main-header {
+  background-color: #0C2947;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+#logo {
+  text-align: left;
+}
+
+a#drowndown-button {
+	text-align: right;
+	color: white;
+}
