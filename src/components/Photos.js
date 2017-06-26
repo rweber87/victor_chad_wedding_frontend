@@ -14,6 +14,12 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
+						src="./images/Kids.jpg"
+						title="Kids"
+						placement="left">
+					</Slide>
+					<Slide
+						id="photo-slide"
 						src="./images/may-2002.jpg"
 						title="May 2002"
 						placement="right">
@@ -21,7 +27,7 @@ function Photos(){
 					<Slide
 						id="photo-slide"
 						src="./images/atlanta-visit-5-19-03.jpg"
-						title="Atlanta Visit 5-19-03!"
+						title="Atlanta Visit 5-19-03"
 						placement="right">
 					</Slide>
 					<Slide
@@ -45,7 +51,7 @@ function Photos(){
 					<Slide
 						id="photo-slide"
 						src="./images/our-place-2010.jpg"
-						title="Our PLace 2010"
+						title="Our Place 2010"
 						placement="right">
 						
 					</Slide>
