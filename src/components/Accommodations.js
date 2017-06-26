@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+
 
 function Accommodations(){
 
@@ -15,13 +15,13 @@ function Accommodations(){
 	          <br/>
 	          <div className='hotel-info'>
 	          	<h5>THE WATSON HOTEL - COLUMBUS CIRCLE</h5>
-	          	<h5>44O WEST 57TH STREET</h5>
+	          	<h5>440 WEST 57TH STREET</h5>
 	          	<h5>NEW YORK, NEW YORK</h5>
-	          	<h5>212-581-8100 | GIVE CODE XCZ</h5>
+	          	<h5>212-581-8100 | GIVE CODE: XCZ</h5>
 	          </div>
 	          	<div className='container'>
 	                <div className='video-container'>
-		                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ9V7NdFlYwokRXWGfawTkPJg&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowfullscreen/>
+		                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ9V7NdFlYwokRXWGfawTkPJg&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowFullScreen/>
 		            </div>
 		        </div>
 		        <br/>
@@ -35,7 +35,7 @@ function Accommodations(){
 		        </div>
 		          	<div className='container'>
 		                <div className='video-container'>
-			                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ-1XDX7hZwokRHLjn63mDetU&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowfullscreen/>
+			                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ-1XDX7hZwokRHLjn63mDetU&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowFullScreen/>
 			            </div>
 			        </div>
 		        <br/>

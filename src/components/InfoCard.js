@@ -1,19 +1,17 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-
 
 function InfoCard(){
 
 	return(
 		<div>
-		<img src='./homepage.jpg' />
+		<img alt='' src='./homepage.jpg' />
 		<div id='body-text' className='container'>
 	        <div id='wedding-card'>
 	          <div id='wedding-text'>
 		       <h1 className='headline-text'>July 27th, 2017</h1>
 	           <h1 className='headline-text'> at </h1> 
 	           <h1 className='headline-text'>Five o'clock in the Evening</h1>
-	           <h6>FORMAL ATTIRE IS REQUIRED</h6>
+	           <h6>FORMAL ATTIRE REQUIRED</h6>
 	            <div className='container'>
 	              <br/>
 	              <br/>
@@ -29,7 +27,7 @@ function InfoCard(){
 	                <br/>
 		            <div className='row'>
 		                <div className='video-container'>
-			                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=Studio%20450%20450%20west%2031st%20street&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowfullscreen/>
+			                <iframe width="600" height="450" src="https://www.google.com/maps/embed/v1/place?q=Studio%20450%20450%20west%2031st%20street&key=AIzaSyD8TkfbwlVaCtk1a5Ra5ZwOJWRuxyIE_FU" allowFullScreen/>
 			            </div>
 			        </div>
 			        <br/>

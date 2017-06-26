@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-function NavBar(){
+function NavBar(props){
+	var form = localStorage.token ? <a onClick={ () => props.logout() } >Log out</a> : <Link to='/login'>Log In</Link>
 	return(
 		<div className='navbar-fixed'>
 			<nav>      
@@ -13,7 +14,7 @@ function NavBar(){
 					        <li><Link to="sass.html">Where It All Began</Link></li>
 					        <li><Link to="/photos">Photos</Link></li>
 					        <li><Link to="/accommodations">Accommodations</Link></li>
-					        <li><Link to="collapsible.html">Log Out</Link></li>
+					        <li>{form}</li>
 					      </ul>
 	                    </div>                        
 	                  </div>
