@@ -1,6 +1,7 @@
+var baseURL = 'https://boiling-castle-32125.herokuapp.com/api/v1'
 
 export function login(params){
-	return fetch('http://localhost:3000/api/v1/auth', {
+	return fetch(baseURL + '/auth', {
 		headers: {
 			'Accept': 'application/json',
       		'Content-Type': 'application/json'
@@ -11,7 +12,7 @@ export function login(params){
 }
 
 export function signUp(params){
-	return fetch('http://localhost:3000/api/v1/users', {
+	return fetch(baseURL + '/users', {
 		headers: {
 			'Accept': 'application/json',
       		'Content-Type': 'application/json'

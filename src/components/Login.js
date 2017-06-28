@@ -29,6 +29,7 @@ class Login extends Component {
 			if(res.error){
 				return this.props.history.push('/login')
 			}
+			console.log(res)
 			localStorage.setItem('token', res.token)
 			this.props.history.push('/')
 		})
