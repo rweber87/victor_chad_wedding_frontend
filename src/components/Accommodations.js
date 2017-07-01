@@ -8,8 +8,8 @@ function Accommodations(){
 	        <div id='wedding-card'>
 	          <div id='wedding-text'>
 	          <h1 className='headline-text'>Accommodations</h1>
-	          <h5>WHEN PLACING YOUR RESERVATION, PLEASE MENTION</h5>
-	          <h5>THAT YOU ARE PART OF THE CLARK-ZODROW WEDDING PARTY</h5>
+	          <h5>THE BOOKING WINDOW HAS OFFICIALLY CLOSED</h5>
+	          <h5>YOU CAN STILL REACH OUT TO THE HOTELS BELOW AND BOOK SEPARATELY FROM THE WEDDING BLOCK</h5>
 	          <br/>
 	          <br/>
 	          <br/>

@@ -8,15 +8,15 @@ function Photos(){
 				<Slider id="photo-slide">
 					<Slide
 						id="photo-slide"
-						src="./images/piedmont-park-2002.png"
-						title="Piedmont Park 2002"
-						placement="right">
+						src="./images/Kids.jpg"
+						title="The Boys"
+						>
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/Kids.jpg"
-						title="Kids"
-						placement="left">
+						src="./images/piedmont-park-2002.png"
+						title="Piedmont Park 2002"
+						placement="right">
 					</Slide>
 					<Slide
 						id="photo-slide"
@@ -26,7 +26,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/atlanta-visit-5-19-03.jpg"
+						src="./images/atlanta-visit-5-19-03.png"
 						title="Atlanta Visit 5-19-03"
 						placement="right">
 					</Slide>
@@ -50,7 +50,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/our-place-2010.jpg"
+						src="./images/our-place-2010.png"
 						title="Our Place 2010"
 						placement="right">
 						
@@ -93,7 +93,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/xmas-2014.jpg"
+						src="./images/xmas-2014.png"
 						title="Christmas 12-25-14"
 						placement="left">
 					</Slide>
@@ -111,7 +111,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/Chads-birthday-2016.jpg"
+						src="./images/Chads-birthday-2016.png"
 						title="Chad's Birthday 6-7-16"
 						placement="right">
 					</Slide>
