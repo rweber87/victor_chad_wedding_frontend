@@ -9,9 +9,9 @@ function NavBar(props){
 	              <div className="Main-header fixed">
 	                  <div className='container'>
 	                    <div id='navbar-row' className='row'>
-	                      <h2><a href="/" className="brand-logo">Victor and Chad</a></h2>
+	                      <h2><a href="/" className="brand-logo headline-text">Victor and Chad's Wedding</a></h2>
 					      <ul id="nav-mobile" className="right">
-					        <li><Link to="/whereitallbegan">Where It All Began</Link></li>
+					        <li><Link to="/whereitallbegan">How It All Began</Link></li>
 					        <li><Link to="/photos">Photos</Link></li>
 					        <li><Link to="/accommodations">Accommodations</Link></li>
 					        <li><Link to="/giftideas">Gift Ideas</Link></li>

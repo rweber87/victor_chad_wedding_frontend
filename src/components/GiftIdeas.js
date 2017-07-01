@@ -8,9 +8,10 @@ function GiftIdeas() {
 	        	<div id='wedding-text'>
 	        		<h1 className='headline-text'>Gift Ideas</h1>
 		        	<div className='container'>
-		        		<h4 className='headline-text'>If you wish to give to the happy couple here are a few ways you can show your appreciation:</h4>
 		        		<br/>
-		        		<h5>Contribute to our Honeymoon (PayPal or Venmo: Chad Zodrow)</h5>
+		        		<h5>Contribute to our Honeymoon</h5>
+		        		<h5>(Cash, Checks, or Electronic Transfer</h5>
+		        		<h5> via PayPal or Venmo c/o: Chad Zodrow)</h5>
 		        		<br/>
 		        		<h5>Crate and Barrel Gift Card</h5>
 		        		<br/>

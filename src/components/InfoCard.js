@@ -4,8 +4,8 @@ function InfoCard(){
 
 	return(
 		<div>
-		<img alt='' src='./homepage.jpg' />
-		<div id='body-text' className='container'>
+		<div id='body-text-homepage' className='container'>
+			<img className='homepage-img' src='./homepage.jpg' />
 	        <div id='wedding-card'>
 	          <div id='wedding-text'>
 		       <h1 className='headline-text'>July 27th, 2017</h1>

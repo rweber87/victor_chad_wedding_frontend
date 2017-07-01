@@ -26,12 +26,6 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/atlanta-visit-5-19-03.png"
-						title="Atlanta Visit 5-19-03"
-						placement="right">
-					</Slide>
-					<Slide
-						id="photo-slide"
 						src="./images/first-apartment-12-29-03.jpg"
 						title="Our First Apartment 12-29-03"
 						placement="left">
@@ -69,6 +63,12 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
+						src="./images/yuletide-12-23-12.png"
+						title="Yuletide 12-23-12"
+						placement="right">
+					</Slide>
+					<Slide
+						id="photo-slide"
 						src="./images/out-to-lunch-7-24-13.jpg"
 						title="Out-to-lunch 7-24-13"
 						placement="right">
@@ -99,9 +99,9 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="./images/july-fourth-15.jpg"
+						src="./images/july-fourth-15.png"
 						title="July Fourth 2015"
-						placement="right">
+						>
 					</Slide>
 					<Slide
 						id="photo-slide"
@@ -119,12 +119,6 @@ function Photos(){
 						id="photo-slide"
 						src="./images/battle-recital-11-13-16.png"
 						title="Kathleen Battle's Recital 11-13-16"
-						placement="right">
-					</Slide>
-					<Slide
-						id="photo-slide"
-						src="./images/yuletide-12-10-16.png"
-						title="Yuletide 12-10-16"
 						placement="right">
 					</Slide>
 					<Slide

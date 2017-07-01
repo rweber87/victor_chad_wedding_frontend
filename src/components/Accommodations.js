@@ -8,10 +8,6 @@ function Accommodations(){
 	        <div id='wedding-card'>
 	          <div id='wedding-text'>
 	          <h1 className='headline-text'>Accommodations</h1>
-	          <h5>THE BOOKING WINDOW HAS OFFICIALLY CLOSED</h5>
-	          <h5>YOU CAN STILL REACH OUT TO THE HOTELS BELOW AND BOOK SEPARATELY FROM THE WEDDING BLOCK</h5>
-	          <br/>
-	          <br/>
 	          <br/>
 	          <div className='hotel-info'>
 	          	<h5>THE WATSON HOTEL - COLUMBUS CIRCLE</h5>
@@ -41,7 +37,10 @@ function Accommodations(){
 		        <br/>
 		        <br/>
 		        <br/>
-
+		        <h6>THE BOOKING WINDOW HAS OFFICIALLY CLOSED</h6>
+	          	<h6>YOU CAN STILL REACH OUT TO THE HOTELS BELOW AND BOOK SEPARATELY FROM THE WEDDING BLOCK</h6>
+	          	<br/>
+	          	<br/>
 		      </div>
           </div>
           <br/>
