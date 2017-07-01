@@ -22,14 +22,13 @@ function GiftIdeas() {
 		        		<h5>Hotels.com Gift Card</h5>
 		        		<br/>
 	        			<h5>New York City Experience Gifts such as...</h5>
-	        			<br/>
+		        		<ul>
 		        		<h5>Museum Memberships</h5>
-		        		<br/>
 		        		<h5>Boat Ride</h5>
-		        		<br/>
 		        		<h5>Helicopter Tour</h5>
-		        		<br/>
 		        		<h5>Wine Tasting</h5>
+		        		</ul>
+		        		<br/>
 		        		<br/>
 			        </div>
 	        	</div>
