@@ -50,7 +50,7 @@ class Login extends Component {
 			        			<br/>
 			        			<br/>
 			        			<br/>	
-			        		<h2>Login</h2>	
+			        		<h2 className='headline-text'>Login</h2>	
 			        		<form className='Login' onSubmit={this.handleSubmit.bind(this)}>
 			        			<input id='form-input' className='input-field' placeholder='First Name:' type='text' onChange={ e => this.handleInputChange('first_name', e.target.value)} />
 			        			<label id='form-input'>First Name:</label>

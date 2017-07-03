@@ -54,7 +54,7 @@ class Signup extends Component {
 		        <div id='wedding-card'>
 		        	<div id='wedding-text'>
 			        	<div className='container'>	
-			        	<h2>Signup</h2>		
+			        	<h2 className='headline-text'>Signup</h2>		
 			        		<form id='signup-form' className='Signup' onSubmit={this.handleSubmit.bind(this)}>
 			        			<input id='form-input' placeholder='First Name:' type='text' onChange={ e => this.handleInputChange('first_name', e.target.value)} />
 			        			<label id='form-input'>First Name:</label>

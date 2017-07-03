@@ -28,7 +28,7 @@ function Photos(){
 						id="photo-slide"
 						src="./images/first-xmas-12-25-08.jpg"
 						title="Our First Christmas 12-25-08"
-						placement="right">
+						placement="left">
 					</Slide>
 					<Slide
 						id="photo-slide"
@@ -65,7 +65,7 @@ function Photos(){
 						id="photo-slide"
 						src="./images/out-to-lunch-7-24-13.jpg"
 						title="Out-to-lunch 7-24-13"
-						placement="right">
+						placement="left">
 					</Slide>
 					<Slide
 						id="photo-slide"
@@ -113,7 +113,7 @@ function Photos(){
 						id="photo-slide"
 						src="./images/battle-recital-11-13-16.png"
 						title="Kathleen Battle's Recital 11-13-16"
-						placement="right">
+						placement="left">
 					</Slide>
 					<Slide
 						id="photo-slide"
