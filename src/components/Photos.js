@@ -51,7 +51,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="/images/frolicking-8-13-11.jpg"
+						src="/images/frolicking-8-13-11.png"
 						title="Frolicking 8-13-11"
 						placement="right">
 					</Slide>
