@@ -63,7 +63,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="/images/out-to-lunch-7-24-13.jpg"
+						src="/images/out-to-lunch-7-24-13.png"
 						title="Out-to-lunch 7-24-13"
 						placement="left">
 					</Slide>
@@ -81,7 +81,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="/images/engagement-8-15-14.jpg"
+						src="/images/engagement-8-15-14.png"
 						title="Engagement 8-15-14"
 						placement="right">
 					</Slide>
