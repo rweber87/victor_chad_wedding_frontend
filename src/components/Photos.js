@@ -26,13 +26,7 @@ function Photos(){
 					</Slide>
 					<Slide
 						id="photo-slide"
-						src="/images/first-xmas-12-25-08.jpg"
-						title="Our First Christmas 12-25-08"
-						placement="left">
-					</Slide>
-					<Slide
-						id="photo-slide"
-						src="/images/first-xmas-12-25-08.jpg"
+						src="/images/first-xmas-12-25-08.png"
 						title="Our First Christmas 12-25-08"
 						placement="left">
 					</Slide>
