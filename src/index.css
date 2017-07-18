@@ -43,7 +43,7 @@ img.homepage-img{
 
 
 .slides{
-	height: 720px !important;
+	height: 820px !important;
 }
 
 .slider .indicators{
@@ -117,16 +117,12 @@ a#drowndown-button {
 		height: 50% !important;
 	}
 
-
-
 	#photo-slide {
-	
 		width: 100%;
 	}
 
 	#photo-slide > div > div >  ul > li > img {
 		
-
 		width: 100%;
 	}
 
@@ -134,7 +130,6 @@ a#drowndown-button {
 		font-size: 17px !important;
 		line-height: 1250% !important;
 		text-align: left !important;
-		
 	}
 
 	li.active{
