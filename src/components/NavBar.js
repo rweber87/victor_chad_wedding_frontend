@@ -11,7 +11,7 @@ function NavBar(props){
             })
     });
 
-    var mobileNavElement = localStorage.token ? <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text left">Victor and Chad's Wedding<i className="material-icons">menu</i></a> : <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text">Victor and Chad's Wedding</a>
+    var mobileNavElement = localStorage.token ? <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text left">Victor and Chad's Wedding<i className="material-icons">menu</i></a> : <a data-activates="mobile-demo" className="button-collapse brand-logo headline-text left">Victor and Chad's Wedding</a>
 
 	return(
 		<div className='navbar'>
