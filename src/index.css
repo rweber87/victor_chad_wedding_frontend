@@ -33,23 +33,26 @@ img.homepage-img{
 }
 
 #photo-slide{
-	padding-top: 86px;;
+	padding-top: 36px;;
 }
 
 .card .card-image img {
 	padding-top: 5px;
 }
 
-.slider{
+
+
+.slides{
 	height: 720px !important;
 }
 
-.slides{
-	height: 690px !important;
+.slider .indicators{
+	position: relative;
+	margin-top: 10px;
 }
 
 h3{
-	line-height: 1700%;
+	line-height: 2200%;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
 
 }
@@ -78,7 +81,7 @@ input:not([type]):focus:not([readonly])+label, input[type=text]:focus:not([reado
 
 .Main-header {
   background-color: #0C2947;
-  height: 150px;
+  height: 100px;
   padding: 20px;
   color: white;
 }
@@ -90,4 +93,53 @@ input:not([type]):focus:not([readonly])+label, input[type=text]:focus:not([reado
 a#drowndown-button {
 	text-align: right;
 	color: white;
+}
+
+@media only screen and (max-device-width: 480px) {
+	ul#mobile-demo.side-nav{
+		background-color: #0C2947;
+		width: 240px ;
+	}
+
+	.side-nav a {
+		color: white;
+		border-bottom-color: white;
+		text-align: center;
+
+	}
+
+	nav .brand-logo.left {
+	    left: 0.5rem;
+	    margin-left: 12px;
+	}
+	
+	.slides{
+		height: 50% !important;
+	}
+
+
+
+	#photo-slide {
+	
+		width: 100%;
+	}
+
+	#photo-slide > div > div >  ul > li > img {
+		
+
+		width: 100%;
+	}
+
+	h3{
+		font-size: 17px !important;
+		line-height: 1250% !important;
+		text-align: left !important;
+		
+	}
+
+	li.active{
+		margin-right: 10px;
+		width: 100%;
+	}
+
 }

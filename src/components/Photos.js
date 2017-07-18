@@ -100,7 +100,7 @@ function Photos(){
 					<Slide
 						id="photo-slide"
 						src="/images/carnegie-hall-opening-night-10-7-15.png"
-						title="Carnegie Hall Opening Night 10-7-15"
+						title="Carnegie Opening Night 10-7-15"
 						placement="right">
 					</Slide>
 					<Slide

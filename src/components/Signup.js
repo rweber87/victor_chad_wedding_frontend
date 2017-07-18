@@ -74,6 +74,7 @@ class Signup extends Component {
 			        			<br/>
 			        			<br/>
 			        		</form>
+			        		<a href='/login'>Have an account? Login</a>
 			        	</div>
 		        	</div>
 		        </div>
