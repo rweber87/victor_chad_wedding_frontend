@@ -1,16 +1,17 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
+
 function NavBar(props){
 	var form = localStorage.token ? <a onClick={ () => props.logout() } >Log out</a> : <Link to='/login'>Log In</Link>
-
 	window.$(document).ready(function() {
             window.$(".button-collapse").sideNav({
             	closeOnClick: true,
             })
     });
 
-    var mobileNavElement = localStorage.token ? <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text left">Victor and Chad's Wedding<i className="material-icons">menu</i></a> : <a href="/" className="brand-logo headline-text center">Victor and Chad's Wedding</a>
+    var mobileNavElement = localStorage.token ? <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text left">Victor and Chad's Wedding<i className="material-icons">menu</i></a> : <a href="/" data-activates="mobile-demo" className="button-collapse brand-logo headline-text">Victor and Chad's Wedding</a>
 
 	return(
 		<div className='navbar'>
